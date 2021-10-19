@@ -1,0 +1,19 @@
+INSERT INTO public.pais(
+	id, nombre)
+VALUES
+(1, 'Costa Rica'),
+(2, 'Croacia'),
+(3, 'Cuba'),
+(4, 'Dinamarca'),
+(5, 'Dominica'),
+(6, 'República Dominicana'),
+(7, 'Ecuador'),
+(8, 'Egipto'),
+(9, 'El Salvador'),
+(10, 'Emiratos Árabes Unidos'),
+(11, 'Eritrea'),
+(12, 'Eslovaquia'),
+(13, 'Eslovenia'),
+(14, 'España'),
+(15, 'Islas ultramarinas de Estados Unidos'),
+(16, 'Costa de Marfil');
